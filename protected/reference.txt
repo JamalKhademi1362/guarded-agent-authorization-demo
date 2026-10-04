@@ -1,0 +1,2 @@
+ALPHA=blue
+BETA=green

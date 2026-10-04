@@ -1,0 +1,5 @@
+{
+  "environment": "mock-production",
+  "feature_flag": true,
+  "max_retries": 3
+}
